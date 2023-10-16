@@ -1,5 +1,7 @@
 # Tenzies
 
+Developed a Tenzies game app as a part of my React learning journey.
+
 Tenzies is a fun dice game. Use the link to read the rules of the game. 
 https://ilovetenzi.com/rules/
 
