@@ -1,7 +1,8 @@
-# TenziesApp
-Created a Tenzies App as a part of learning process through an online course from Scrimba.
+# React + Vite
 
-Please click the link to read the rules and enjoy the game.
-https://ilovetenzi.com/rules/
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-ReactJS is used to create the game. Please throw in your suggestions in case you see something that can be done better.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
